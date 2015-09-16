@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說造立形像福報經
+#+DATE: 2015-08-30 20:17:43.376738
+#+PROPERTY: JUAN 0
