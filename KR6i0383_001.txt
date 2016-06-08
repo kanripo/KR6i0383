@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 693
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0383_T_000-0788c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0383_T_001-0788c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -15,7 +15,7 @@
 No. 693 [No. 692]¶
 《佛說造立形像福報經》¶
 ¶
-闕譯人名附東晉錄¶
+闕譯人名附東晉譯¶
 
 佛至拘羅懼國，有諸樹園主名拘翼。
 
