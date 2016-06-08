@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:43.190373
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:25
 #+TITLE: 佛說造立形像福報經
 #+PROPERTY: CBETA_ID T16n0693
 #+PROPERTY: ID KR6i0383
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 693
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0383_T_000-0788c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0383_T_001-0788c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.693[No.692]¶
-
- 《佛說造立形像福報經》¶
+No. 693 [No. 692]¶
+《佛說造立形像福報經》¶
 ¶
 闕譯人名附東晉錄¶
 
@@ -42,8 +41,7 @@ No.693[No.692]¶
 復見佛。今欲作佛形像，恭敬承事，得何福報？¶
 願佛哀愍，為我說之，我欲聞知。」
 
-爾時，佛告年¶
-少王：「汝所問，大善。諦聽吾說，以著心中。」
+爾時，佛告年少王：「汝所問，大善。諦聽吾說，以著心中。」
 
 王¶
 即稽首言：「受教。」
@@ -144,9 +142,9 @@ No.693[No.692]¶
 　聞梵音審諦，
 　不動百福成，¶
 　作佛形像者，
-　得何等福報？」
+　得何等福報？」」
 #+END_VERSE
-」¶
+¶
 
 爾時，世尊說偈答曰：¶
 
@@ -203,9 +201,9 @@ No.693[No.692]¶
 　是故供養佛，
 　華香香汁塗，¶
 　供養大士者，
-　得漏盡無為。」
+　得漏盡無為。」」
 #+END_VERSE
-」¶
+¶
 
 佛說經竟，王大歡喜，即起前以頭面著佛足¶
 而起，比丘、比丘尼、優婆塞、優婆夷，及其五百¶
